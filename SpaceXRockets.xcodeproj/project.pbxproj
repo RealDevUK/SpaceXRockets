@@ -11,6 +11,7 @@
 		FB02CBD025DC4F2600E8E37F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB02CBCF25DC4F2600E8E37F /* ContentView.swift */; };
 		FB02CBD225DC4F4100E8E37F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB02CBD125DC4F4100E8E37F /* Assets.xcassets */; };
 		FB02CBD525DC4F4100E8E37F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB02CBD425DC4F4100E8E37F /* Preview Assets.xcassets */; };
+		FB02CBE425DC6C6000E8E37F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB02CBE325DC6C6000E8E37F /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FB02CBD125DC4F4100E8E37F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB02CBD425DC4F4100E8E37F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FB02CBD625DC4F4100E8E37F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB02CBE325DC6C6000E8E37F /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FB02CBD125DC4F4100E8E37F /* Assets.xcassets */,
 				FB02CBD625DC4F4100E8E37F /* Info.plist */,
 				FB02CBD325DC4F4100E8E37F /* Preview Content */,
+				FB02CBE325DC6C6000E8E37F /* LaunchScreen.storyboard */,
 			);
 			path = SpaceXRockets;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB02CBE425DC6C6000E8E37F /* LaunchScreen.storyboard in Resources */,
 				FB02CBD525DC4F4100E8E37F /* Preview Assets.xcassets in Resources */,
 				FB02CBD225DC4F4100E8E37F /* Assets.xcassets in Resources */,
 			);
